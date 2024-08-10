@@ -12,7 +12,7 @@ A MERN application for tasks management.
 
 1. Clone the Repository
 
-2. Install all the dependencies
+2. Install all the dependencies in root folder using below command
 
    ```sh
    npm run install-all
@@ -20,7 +20,7 @@ A MERN application for tasks management.
 
 2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
 
-3. Start the application
+3. Start the application using below command from root directory only
 
    ```sh
    npm run dev
